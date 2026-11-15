@@ -1,0 +1,6 @@
+payment_id,member_id,payment_date,amount,plan,payment_status
+P001,M001,2026-10-01,1200,Monthly,Paid
+P002,M002,2026-09-15,3000,Quarterly,Paid
+P003,M003,2026-08-01,10000,Yearly,Paid
+P004,M004,2026-10-20,1200,Monthly,Pending
+P005,M005,2026-07-01,3000,Quarterly,Paid
